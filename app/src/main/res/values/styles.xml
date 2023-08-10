@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NavDrawerTextStyle" parent="Widget.Design.NavigationView">
+        <item name="android:textColor">#FF0000</item> <!-- Set the font color to red -->
+    </style>
+</resources>

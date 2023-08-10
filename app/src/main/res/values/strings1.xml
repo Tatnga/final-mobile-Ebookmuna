@@ -1,0 +1,43 @@
+<resources>
+    <string-array name="filter_options">
+        <item>ALL</item>
+        <item>BEEd</item>
+        <item>BSA</item>
+        <item>BSBA</item>
+        <item>BSCpE </item>
+        <item>BSEE</item>
+        <item>BSECE</item>
+        <item>BSIE</item>
+        <item>BS Crim </item>
+        <item>BSCA</item>
+        <item>BSIT</item>
+        <item>BSCS </item>
+        <item>BSHM</item>
+        <item>BSTM</item>
+        <item>BSN</item>
+        <item>BSMT</item>
+        <item>BS Mar Engg</item>
+        <item>BASIC EDUCATION</item>
+    </string-array>
+
+
+
+<string-array name="filter_options1">
+    <item>ALL</item>
+    <item>TEXTBOOK</item>
+    <item>ROMANCE</item>
+    <item>New Age</item>
+    <item>RELIGION SPIRITUALITY</item>
+    <item>POLITICAL TRILLER</item>
+    <item>PRAYER</item>
+    <item>POETRY</item>
+    <item>PHILOSOPHY</item>
+    <item>PICTURE BOOK</item>
+    <item>NONFICTION</item>
+    <item>FICTION</item>
+
+
+
+
+</string-array>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+
+    >
+    <item android:id="@+id/home"
+        android:icon="@drawable/homeimg"
+        android:title="Home"
+
+        />
+    <item android:id="@+id/library"
+    android:icon="@drawable/libraryimg"
+    android:title="Library"
+
+    />
+    <item android:id="@+id/borrowedbook"
+        android:icon="@drawable/bookimg"
+        android:title="Borrow Books Status"
+
+        />
+    <item android:id="@+id/profile"
+        android:icon="@drawable/personimg"
+        android:title="Profile"
+        />
+    <item
+        android:id="@+id/review"
+        android:icon="@drawable/recieve"
+
+        android:title="Borrowed Books" />
+    <item
+        android:id="@+id/review1"
+        android:icon="@drawable/reviewimg"
+
+        android:title="Review" />
+
+
+    <item android:id="@+id/report"
+        android:icon="@drawable/chart"
+        android:title="Report"
+        />
+    <item
+        android:id="@+id/rateus"
+        android:icon="@drawable/baseline_rate_review_24"
+        android:title="Rate Us" />
+    <item android:id="@+id/logoutnav"
+        android:icon="@drawable/logoutimg"
+        android:title="Logout"
+        />
+</menu>

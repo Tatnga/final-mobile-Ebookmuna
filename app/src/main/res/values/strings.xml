@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">app2</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="sort_options">
+        <item>ALL</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>IRREGULAR</item>
+    </string-array>
+    <string-array name="filter_spinner_label1">
+        <item>Name</item>
+        <item>Author</item>
+        <item>Date</item>
+    </string-array>
+    <string-array name="filter_spinner_label">
+        <item>Ascending Order</item>
+        <item>Descending Order</item>
+    </string-array>
+    <string name="filter_spinner_label">Filter By:</string>
+    <string name="ascending_order">Latest</string>
+    <string name="descending_order">Oldest</string>
+</resources>
